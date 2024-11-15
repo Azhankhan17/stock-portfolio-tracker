@@ -1,6 +1,7 @@
 # stock-portfolio-tracker
 
 # Author  - Azhan Khan
+#Link- http://127.0.0.1:5501/template/index.html
 
 Stock Portfolio Tracker
 A web-based application that allows users to monitor their stock investments, add and remove stocks, view current performance, and track value changes over time. This project fetches real-time stock data from financial APIs to provide up-to-date information on stocks in the user's portfolio.
